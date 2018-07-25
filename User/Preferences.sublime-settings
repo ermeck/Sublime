@@ -1,5 +1,5 @@
 {
-	"auto_complete": false,
+	// "auto_complete": false,
 	"bold_folder_labels": true,
 	"fold_buttons": false,
 	"font_size": 11,
@@ -22,5 +22,5 @@
 	"material_theme_small_tab": true,
 	"show_definitions": false,
 	"tab_size": 2,
-	"word_wrap": "false"
+	// "word_wrap": "false"
 }
